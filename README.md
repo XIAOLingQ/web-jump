@@ -26,7 +26,7 @@ npm run serve
 
 由于公网部署带宽限制，资源加载可能会要等一会，下图是本地真实运行效果
 
-<video src="./assert/ys.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">  </video>
+<video src="https://github.com/XIAOLingQ/web-jump/blob/master/assert/ys.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">  </video>
 
 ## 关于
 
