@@ -63,11 +63,13 @@ class GameManager {
     textDiv.innerHTML = `
       编程与艺术课程作业<br>
       建议用电脑打开<br>
-      背景是动图，有BGM<br>
+      背景是动图<br>
       但是，由于带宽限制网页加载可能较慢<br>
       游戏运行过程中可能会有报错，直接叉掉<br>
       老师有问题请联系我, Q:3061784569<br>
-      <a href="https://share.weiyun.com/vektcOdy" target="_blank" style="color: blue; text-decoration: underline;">视频演示</a><br>
+      <a href="https://share.weiyun.com/vektcOdy" target="_blank" style="color: red; text-decoration: underline;">视频演示为本地运行真实效果(就狠点！)</a><br>
+      GitHub地址：<a href="https://github.com/XIAOLingQ/web-jump" target="_blank" style="color: red; text-decoration: underline;">部署方法和演示(就狠点！)</a><br>
+      Gitee地址：<a href="https://gitee.com/xiaolq1/web-jump" target="_blank" style="color: red; text-decoration: underline;">部署方法和演示(就狠点！)</a><br>
     `;
 
     textDiv.style.position = 'absolute';
